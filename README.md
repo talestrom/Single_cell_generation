@@ -6,7 +6,7 @@ The Notebook includes the following steps:
 1. Uploading and summarization of the data: single-cell RNA sequences.
 2. Data visualization after dimensionality reduction (UMAP).
 3. Graphical lasso analysis.
-4. Generate synthetic data via Wasserstein-GAN.
+4. Synthetic data generation via Wasserstein-GAN.
 5. Comparison of visualization after UMAP reduction and Graphical lasso results between the synthetic and the real data.
 6. Training a model that includes an additional term that penalizes difference in Graphical lasso in the loss function - generate synthetic data using this approach.
 7. Comparison of visualization after UMAP reduction and Graphical lasso results between two types of synthetic data (with and without the modified loss function) and the real data.
